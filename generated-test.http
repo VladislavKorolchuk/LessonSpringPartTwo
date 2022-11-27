@@ -1,0 +1,6 @@
+### Получение всех ID
+GET http://localhost:8080/store/order/get
+
+### Ввод ID
+GET http://localhost:8080/store/order/add?id=8,8,7,5,9,9,0
+
